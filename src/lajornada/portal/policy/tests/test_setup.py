@@ -9,6 +9,7 @@ DEPENDENCIES = [
     'collective.cover',
     'collective.disqus',
     'collective.googlenews',
+    'collective.newsflash',
     'collective.nitf',
     'collective.polls',
     'collective.syndication',
