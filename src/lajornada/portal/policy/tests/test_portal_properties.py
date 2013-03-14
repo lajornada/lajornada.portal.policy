@@ -28,7 +28,7 @@ class PortalPropertiesTestCase(unittest.TestCase):
         self.assertFalse(self.properties.enable_livesearch)
 
     def test_default_language(self):
-        self.assertEqual(self.properties.default_language, 'pt-br')
+        self.assertEqual(self.properties.default_language, 'es')
 
     def test_default_charset(self):
         self.assertEqual(self.properties.default_charset, 'utf-8')
