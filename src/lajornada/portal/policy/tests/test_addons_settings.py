@@ -79,17 +79,16 @@ class AddonsSettingsTestCase(unittest.TestCase):
         available_sections = list(self.nitf_settings.available_sections)
         available_sections.sort()
         expected = [
+            u'Capital',
+            u'Ciencias',
             u'Cultura',
-            u'Economia',
-            u'Educação',
-            u'Internacional',
-            u'Mais Admiradas',
+            u'Deportes',
+            u'Economía',
+            u'Espectáculos',
+            u'Estados',
+            u'Mundo',
             u'Política',
-            u'Retratos capitais',
-            u'Saúde',
-            u'Sociedade',
-            u'Sustentabilidade',
-            u'Tecnologia',
+            u'Sociedad y Justicia',
         ]
         self.assertListEqual(available_sections, expected)
 
