@@ -1,0 +1,9 @@
+Changelog
+=========
+
+1.0-dev (unreleased)
+--------------------
+
+- Include sc.periodicals as dependency [lepri]
+- Package created using templer
+  [Hector Velarde]

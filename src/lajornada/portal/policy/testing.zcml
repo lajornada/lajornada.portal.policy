@@ -1,0 +1,18 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:five="http://namespaces.zope.org/five"
+    xmlns:i18n="http://namespaces.zope.org/i18n"
+    xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
+    i18n_domain="lajornada.portal.policy">
+
+  <include file="configure.zcml" />
+
+  <genericsetup:registerProfile
+      name="test fixture"
+      title="lajornada.portal.policy tests"
+      directory="profiles/testing"
+      description="Steps to ease tests of lajornada.portal.policy"
+      provides="Products.GenericSetup.interfaces.EXTENSION"
+      />
+
+</configure>

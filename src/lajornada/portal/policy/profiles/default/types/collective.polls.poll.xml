@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<object name="collective.polls.poll" meta_type="Dexterity FTI">
+  <property name="allow_discussion">True</property>
+</object>

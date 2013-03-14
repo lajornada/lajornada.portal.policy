@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<metadata>
+  <version>1</version>
+  <dependencies>
+    <dependency>profile-collective.cover:default</dependency>
+    <dependency>profile-collective.disqus:default</dependency>
+    <dependency>profile-collective.googlenews:default</dependency>
+    <dependency>profile-collective.nitf:default</dependency>
+    <dependency>profile-collective.polls:default</dependency>
+    <dependency>profile-collective.syndication:default</dependency>
+    <dependency>profile-collective.upload:default</dependency>
+    <dependency>profile-Products.PloneFormGen:default</dependency>
+    <dependency>profile-Products.PloneKeywordManager:default</dependency>
+    <dependency>profile-sc.embedder:default</dependency>
+    <dependency>profile-s17.person:default</dependency>
+    <dependency>profile-sc.collapsible.edit:default</dependency>
+    <dependency>profile-sc.galleria.support:default</dependency>
+    <dependency>profile-sc.periodicals:default</dependency>
+    <dependency>profile-sc.social.like:default</dependency>
+  </dependencies>
+</metadata>
