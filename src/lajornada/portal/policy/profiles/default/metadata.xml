@@ -14,6 +14,7 @@
     <dependency>profile-Products.PloneKeywordManager:default</dependency>
     <dependency>profile-sc.embedder:default</dependency>
     <dependency>profile-s17.person:default</dependency>
+    <dependency>profile-sc.behavior.journalist:default</dependency>
     <dependency>profile-sc.collapsible.edit:default</dependency>
     <dependency>profile-sc.galleria.support:default</dependency>
     <dependency>profile-sc.periodicals:default</dependency>

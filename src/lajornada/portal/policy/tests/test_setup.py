@@ -17,6 +17,7 @@ DEPENDENCIES = [
     'PloneFormGen',
     'PloneKeywordManager',
     's17.person',
+    'sc.behavior.journalist',
     'sc.collapsible.edit',
     'sc.embedder',
     'sc.galleria.support',
