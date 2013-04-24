@@ -69,6 +69,7 @@ setup(
         'sc.periodicals',
         'sc.social.like',
         'setuptools',
+        'lajornada.portal.theme',
     ],
     extras_require={'test': ['plone.app.testing']},
     entry_points="""

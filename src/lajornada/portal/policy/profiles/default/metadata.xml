@@ -19,5 +19,6 @@
     <dependency>profile-sc.galleria.support:default</dependency>
     <dependency>profile-sc.periodicals:default</dependency>
     <dependency>profile-sc.social.like:default</dependency>
+    <dependency>profile-lajornada.portal.theme:default</dependency>
   </dependencies>
 </metadata>
