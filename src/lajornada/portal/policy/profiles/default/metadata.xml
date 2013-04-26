@@ -20,5 +20,7 @@
     <dependency>profile-sc.periodicals:default</dependency>
     <dependency>profile-sc.social.like:default</dependency>
     <dependency>profile-lajornada.portal.theme:default</dependency>
+    <dependency>profile-openmultimedia.api:default</dependency>
+    <dependency>profile-openmultimedia.contenttypes:default</dependency>
   </dependencies>
 </metadata>

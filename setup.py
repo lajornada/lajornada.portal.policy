@@ -70,6 +70,8 @@ setup(
         'sc.social.like',
         'setuptools',
         'lajornada.portal.theme',
+        'openmultimedia.api',
+        'openmultimedia.contenttypes',
     ],
     extras_require={'test': ['plone.app.testing']},
     entry_points="""
